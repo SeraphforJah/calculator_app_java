@@ -1,0 +1,33 @@
+1. sTART
+
+2. INPUT no.1 and no.2		
+		
+3. LET "SUM" = no.1 + no.2
+
+4. LET "DIFFERENCE" = no.1 - no.2
+
+5. LET "PRODUCT" = no.1 * no.2
+
+6. LET "QUOTIENT" = no.1 / no.2
+
+7. LET "EXPONENTIATION" = no.1 ** no.2
+
+8. IF no.1 >= 10 {
+
+9.	ECHO "Error"
+
+10.	} ELSE {
+
+11.		IF no.2 >= 10 {
+
+12.			ECHO "Error"
+
+8.			} ELSE {
+
+14.			PRINT SUM or DIFFERENCE or PRODUCT or QUOTIENT or EXPONENTIATION
+
+15.			}
+
+16.		}
+
+17. END
